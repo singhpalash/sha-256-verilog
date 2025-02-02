@@ -21,6 +21,9 @@ This project implements the **SHA-256 cryptographic hash function** in Verilog. 
 - Requires **64 clock cycles per 512-bit block** (excluding preprocessing and finalization).
 - The implementation follows **pipelined architecture** to optimize performance.
 - Can be interfaced with an **LCD or 7-segment display** for real-time hash output.
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/b95ff00d-9820-4b77-86ed-8940c09d229f" />
+
+  
 
 ## How to Run
 1. Clone the repository:
